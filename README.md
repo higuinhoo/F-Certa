@@ -1,8 +1,8 @@
-# F-Certa
+# Ferramenta-Certa
 
 ## Descrição
 
-**F-Certa** é um protótipo acadêmico desenvolvido para a disciplina de UI/UX. O projeto consiste em um aplicativo para gerenciamento de empréstimo de ferramentas entre vizinhos, facilitando o compartilhamento e controle de itens comunitários.
+**Ferramenta-Certa** é um protótipo acadêmico desenvolvido para a disciplina de UI/UX. O projeto consiste em um aplicativo para gerenciamento de empréstimo de ferramentas entre vizinhos, facilitando o compartilhamento e controle de itens comunitários.
 
 ### Funcionalidades:
 - Anunciar ferramenta pronta para empréstimo
